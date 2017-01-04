@@ -9,5 +9,11 @@ master2
 실험3테스트
 마스터머지
 실험3계속
+<<<<<<< HEAD
 index
 
+=======
+test2
+tersts
+index
+>>>>>>> 43f8c433dbc57d58afa73bfd54c0e82d5cae2941
