@@ -1,8 +1,7 @@
-<<<<<<< HEAD
 master branch
 master2
-=======
 실험 branch
 실험2
 실험3
->>>>>>> 실험
+실험3
+
